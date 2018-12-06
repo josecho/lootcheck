@@ -6,7 +6,6 @@ ShallowWrapper {
   Symbol(enzyme.__unrendered__): <Loot
     balance={10}
     bitcoin={Object {}}
-    fetchBitcoin={Object {}}
   />,
   Symbol(enzyme.__renderer__): Object {
     "batchedUpdates": [Function],

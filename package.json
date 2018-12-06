@@ -10,6 +10,12 @@
     "redux-thunk": "^2.3.0",
     "sfcookies": "^1.0.2"
   },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.js",
+      "!src/index.js"
+    ]
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
